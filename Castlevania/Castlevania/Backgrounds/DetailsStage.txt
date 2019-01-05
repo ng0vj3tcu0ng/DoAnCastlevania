@@ -1,0 +1,30 @@
+Type In Map:
+0: CandelS (x,y,TypeOfItems)
+1: CandelM (x,y,TypeOfItems)
+2: Brick On Stair(x,y,TypeStair,Direction,DirectionX)
+3: Brick (left,top,right,bottom)
+4: Medusa (x,y)
+5: Dog (x,y)
+6: Bat (x,y)
+7: BigBat (x,y,TypeOfItems)
+8: Hidden Brick (x,y,TypeOfItems,TypeOfHiddenBrick)
+9: Fish Man (x,y)
+10: Door (x,y)
+G?p 999999 thôi d?c type
+G?p 888888 thôi d?c file
+
+Type In Objects:
+50: Bat
+51: BigBat
+52: Dog
+53: Fish Man
+54: Medusa
+55: Hidden Brick
+56: Brick On Stair
+60: Candel
+79: Fireball
+
+
+
+
+

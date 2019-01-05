@@ -1,0 +1,22 @@
+﻿  Main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\dell\desktop\castlevania\castlevania\game.h(7): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\dell\desktop\castlevania\castlevania\camera.h(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(426): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(442): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(629): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(634): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(738): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(743): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(750): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(773): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(874): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(896): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(930): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(955): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(1021): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(1023): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(1026): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dell\desktop\castlevania\castlevania\main.cpp(1028): warning C4018: '<': signed/unsigned mismatch
+  Castlevania.vcxproj -> C:\Users\DELL\Desktop\Castlevania\Debug\Castlevania.exe

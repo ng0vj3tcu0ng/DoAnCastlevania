@@ -1,0 +1,57 @@
+Action:
+0: Infor Texture
+100: Infor Sprites
+200: Infor Ani
+Texture:
+Id
+Sprites: >>> N Sprites
+IdSprites,left,top,right,bottom
+Ani: >>> N Ani
+IdAni,Default Time, N sprites, id sprites
+
+
+Simon:
+idle right 300   		 
+idle left 301   		 
+walk right 302   		 
+walk left 303   		 
+crouch right 304   		 
+crouch left 305   		 
+jump right	306   		
+jump left 307   		  
+standing attack right 308   		 
+standing attack left 309   		  
+crouching attack right 310   		  
+crouching attack left 311   		  
+effect  right 312   
+effect  left 313   
+OnStairUpRIGHT 314   
+OnStairUpLEFT 315   
+OnStairDownRight 316   
+OnStairDownLeft 317   
+OnStairIdleRightup 318   
+OnStairIdleLEFTdown 319   
+OnStairIdleLeftUp 320   
+OnStairIdleDownRight	321   
+ATTACKOS UP RIGHT 322   
+ATTACKOS DOWN LEFT 323   
+ATTACKOS UP LEFT 324   
+ATTACKOS DOWN LERIGHTFT 325  
+BeingAttacking right 326   
+BeingAttacking left 327   
+IDLE INTRO 328   
+SIMON DIE 329   
+SIMON KILL BIGBAT 330   
+Tang Hinh
+idle right 400   		
+idle left 401   		
+Walk right 402   		
+walk left 403   		
+crouch right 404   		
+crouch left 405   		
+jump right 406   		
+jump left 407   		  
+standing attack right 408   		  
+standing attack left 409   		  
+crouching attack right 410   		  
+crouching attack left 241   

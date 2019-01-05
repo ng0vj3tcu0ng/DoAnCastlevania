@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Weapon">
+      <UniqueIdentifier>{a31a139b-c7f7-4b2c-b7d3-f770b9417cc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Brick">
+      <UniqueIdentifier>{064408a7-5c41-4ebe-bd47-704dc3a9a2ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemies">
+      <UniqueIdentifier>{df31bc72-7357-4734-b9d5-ca807eed1f18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Intro">
+      <UniqueIdentifier>{898dc598-0e52-4f0f-b4f0-a6c85d27e7dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effect">
+      <UniqueIdentifier>{97627c90-9582-4f19-b82f-137f48b1198f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{27ca3d29-0a57-4e1f-860e-3eb01538ab88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprites.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Simon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Candle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Axe.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Knife.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Whip.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="BossMedusa.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="BossDog.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickOnStair.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="BossBat.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="BossFishMan.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="HolyWater.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="CDoor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBall.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroSource.h">
+      <Filter>Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakingWall.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="BossBigBat.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="HealthBoss.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="HealthSimon.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleAttacking.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomerang.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickHidden.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Textures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprites.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Simon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Candle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Axe.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Knife.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Whip.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="BossDog.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="BossMedusa.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickOnStair.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="BossBat.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="BossFishMan.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="HolyWater.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="CDoor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBall.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroSource.cpp">
+      <Filter>Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakingWall.cpp">
+      <Filter>Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="BossBigBat.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="HealthSimon.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="HealthBoss.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DoubleAttacking.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomerang.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickHidden.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
